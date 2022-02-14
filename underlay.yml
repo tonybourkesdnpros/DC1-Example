@@ -3,7 +3,4 @@ leaf1-dc1:
     Ethernet3: 192.168.103.0/24
 leaf2-dc1:
   interfaces:
-    Ethernet3: 192.168.103.8/24
-leaf3-dc2:
-  interfaces:
-    Ethernet3: 192.168.103.14/24
+    Etehrnet3: 192.168.103.8/24
